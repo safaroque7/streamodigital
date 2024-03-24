@@ -1,0 +1,291 @@
+/* #1 header and footer css */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.bg-gmr a {
+    transition: all 0.5s ease-in-out;
+}
+
+
+/* Font-face Icons */
+/* @font-face {
+    font-family: 'flexslider-icon';
+    src: url('fonts/flexslider-icon.eot');
+    src: url('fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('fonts/flexslider-icon.woff') format('woff'), url('fonts/flexslider-icon.ttf') format('truetype'), url('fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} */
+
+@font-face {
+    font-family: 'flexslider-icon';
+    src: url('../../fonts/flexslider-icon.eot');
+    src: url('../../fonts/flexslider-icon.eot?#iefix') format('embedded-opentype'), url('../../fonts/flexslider-icon.woff') format('woff'), url('../../fonts/flexslider-icon.ttf') format('truetype'), url('../../fonts/flexslider-icon.svg#flexslider-icon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* #1 header and footer css start */
+
+
+.main-menu ul {
+    list-style: none;
+}
+
+.main-menu ul li {
+    float: left;
+    margin-left: 20px;
+}
+
+.main-menu ul li a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.main-menu ul li {
+    border-right: 2px solid #999999;
+    line-height: 100%;
+    padding-right: 20px;
+}
+
+.main-menu ul li:last-child {
+    border-right: 0;
+    padding-right: 0;
+}
+
+.footer-menu ul,
+.quick-link ul li {
+    list-style: none;
+}
+
+.icon-height-weight {
+    width: 35px;
+    height: 35px;
+    align-items: center;
+    border-radius: 50%;
+}
+
+.footer-menu ul li a {
+    text-decoration: none;
+    /* padding: 5px 10px; */
+    color: black;
+}
+
+.footer-bg {
+    background-image: url("/images/footer-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+div#navbarTogglerDemo02 {
+    font-size: 20px;
+}
+
+.bg-streamo {
+    background-color: #1d6ea6;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.footer-menu ul li a:last-child {
+    padding-right: 0;
+}
+
+.footer-menu-privacy li:first-child {
+    border-right: 1px solid #fff;
+    padding-right: 10px;
+}
+
+.footer-menu-privacy {
+    line-height: 20px;
+}
+
+/* #1 header and footer css end */
+
+
+.signup-today {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(212, 15, 224, 1) 50%, rgba(0, 212, 255, 1) 100%);
+}
+
+.signup-today:hover {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.bg-gmr {
+    background: linear-gradient(180deg, transparent 10.87%, rgba(0, 0, 0, .6) 53.06%, #000);
+    width: 100%;
+    height: 100%;
+    padding: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+
+.bg-fifty:after {
+    width: 100%;
+    content: "";
+    position: absolute;
+    background: red;
+    height: 100%;
+}
+
+.ultimate-destination {
+    background-image: linear-gradient(180deg, black, transparent);
+    background-color: royalblue;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-gmr a:hover {
+    /* background: red; */
+    color: red !important;
+}
+
+.main-logo {
+    width: 150px;
+}
+
+
+.streamodigital-height {
+    height: 800px;
+}
+
+.bg-streamodigital {
+    /* background-color : #10867d; */
+    background: radial-gradient(#69ebc4, #10867d);
+}
+
+
+
+.streamodigital-image {
+    width: 500px;
+}
+
+.streamodigital-feature-box {
+    width: 424px;
+}
+
+.streamodigital-feature-text p {
+    padding-left: 42px;
+    padding-top: 19px;
+}
+
+.bg-testimonial {
+    background-color: #1d4664;
+}
+
+.testimonial-left-arrow {
+    left: 71%;
+}
+
+.testimonial-right-arrow {
+    right: 11%;
+}
+
+
+.bg-testimonial-linear-gradient{
+    background-color: #0d6efd; /* For browsers that do not support gradients */
+    background-image: linear-gradient(#0d6efd, #ff0000);
+}
+
+.number {
+    width: 42px;
+}
+
+
+/* ********************************* MOBILE VERSION START ********************************* */
+
+@media only screen and (max-width: 767px) {
+
+    h1,
+    .display-1 {
+        font-size: 18px !important;
+        line-height: normal;
+    }
+
+    p.fs-4 {
+        font-size: 12px;
+    }
+
+    h3,
+    .fs-4 {
+        font-size: 13px !important;
+        line-height: revert-layer;
+    }
+
+    .main-logo {
+        width: 75px;
+    }
+
+    ul.navbar-nav li a {
+        font-size: 15px;
+    }
+
+    .streamodigital-feature-box {
+        width: 150px;
+    }
+
+    .streamodigital-feature-text p {
+        font-size: 10px;
+    }
+
+    .streamodigital-feature-text p {
+        padding-left: 15px;
+        padding-top: 6px;
+    }
+
+    span.num {
+        font-size: 17px;
+    }
+
+    .streamodigital-height {
+        height: 375px;
+    }
+
+    .streamodigital-image {
+        width: 173px;
+    }
+
+    span.fw-bold.d-block.h1.mb-0 {
+        line-height: 17px;
+    }
+
+    .bg-testimonial h2 {
+        font-size: 16px;
+    }
+
+    .bg-testimonial h4 {
+        font-size: 12px;
+    }
+
+    .testimonial-text {
+        font-size: 12px;
+        font-weight: normal;
+    }
+
+    .testimonial-right-arrow {
+        right: 80%;
+        top: -111px;
+    }
+
+    .testimonial-left-arrow {
+        top: -111px;
+        left: -8px;
+    }
+}
+
+/* ********************************* MOBILE VERSION END ********************************* */
+
+.column-count-2 {
+    column-count: 2;
+}
