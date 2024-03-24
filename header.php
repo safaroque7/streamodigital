@@ -13,7 +13,7 @@
 <body>
 
 <!-- header section start -->
-<div class="contaniner-fluid bg-streamo h-20">
+<div class="contaniner-fluid bg-streamo">
         <div class="container">
             <div class="row align-items-center justify-content-between">
 

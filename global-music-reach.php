@@ -1,29 +1,12 @@
 <?php include_once('header.php');?>
 
-<!-- breadcrumb start -->
-<div class="container-fluid px-0 my-md-5 my-3 py-md-5 py-3 bg-light border-bottom border-md-4 border-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <nav aria-label="breadcrumb py-md-5 py-2">
-                    <ol class="breadcrumb mb-0">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active text-capitalize" aria-current="page"> Global Music Reach </li>
-                        <!--changable text-->
-                    </ol>
-                </nav>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- breadcrumb end -->
-
-
 <div class="container-fluid mb-md-5 mb-3">
     <div class="container">
         <div class="row">
-            <img src="images/distination/1-single-global-music-reach.jpg" alt="global-music" class="img-fluid mb-md-4 mb-2">
-            <h1> GLOBAL MUSIC REACH </h1>
+            <div class="display-1 fw-bold mb-md-5 mb-2 text-streamo"> GLOBAL MUSIC REACH </div>
+            <img src="images/distination/1-single-global-music-reach.jpg" alt="global-music"
+                class="img-fluid mb-md-4 mb-2">
+
         </div>
         <div class="row">
             <p>
