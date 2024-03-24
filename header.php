@@ -56,9 +56,9 @@
                                                     Content </a></li>
                                             <li><a class="dropdown-item" href="free-youtube-content-id.php"> Free
                                                     Youtube Content ID </a></li>
-                                            <li><a class="dropdown-item" href="faster-smoother-release.php"> Faster
+                                            <li><a class="dropdown-item" href="faster-smother-release.php"> Faster
                                                     Smoother Release </a></li>
-                                            <li><a class="dropdown-item" href="monetise-on-tick-and-facebook.php">
+                                            <li><a class="dropdown-item" href="monetise-on-tiktok-facebook.php">
                                                     Monetise on Tick and Facebook </a></li>
                                             <li><a class="dropdown-item"
                                                     href="verification-youtube-official-artist-channel.php">
@@ -67,14 +67,14 @@
                                                     Copyright Royalties </a></li>
                                             <li><a class="dropdown-item" href="add-unlimited-artist.php"> Add Unlimited
                                                     Artist </a></li>
-                                            <li><a class="dropdown-item" href="add-unlimited-label"> Add Unlimited Label
+                                            <li><a class="dropdown-item" href="add-unlimited-label.php"> Add Unlimited Label
                                                 </a></li>
                                             <li><a class="dropdown-item" href="full-analytics-access.php"> Full
                                                     Analytics Access </a></li>
-                                            <li><a class="dropdown-item" href="monthly-payouts.php"> Monthly Payouts
+                                            <li><a class="dropdown-item" href="monthly-payouts-in-all-gateways.php"> Monthly Payouts
                                                 </a></li>
                                             <li><a class="dropdown-item"
-                                                    href="whitelisting-for-youtube-and-facebook.php"> Whitelisting For
+                                                    href="whitelisting-in-youtube-and-facebook.php"> Whitelisting For
                                                     Youtube And Facebook </a></li>
                                             <li><a class="dropdown-item" href="rapid-claim-release.php"> Rapid Claim
                                                     Release </a></li>
@@ -100,7 +100,7 @@
                                             <li><a class="dropdown-item" href="gateway-to-global-music-reach.php">
                                                     Gateway to Global Music Reach </a></li>
                                             <li><a class="dropdown-item" href="stores.php"> Stores </a></li>
-                                            <li><a class="dropdown-item" href="served-babels.php"> Served Labels </a>
+                                            <li><a class="dropdown-item" href="served-labels.php"> Served Labels </a>
                                             </li>
                                             <li><a class="dropdown-item" href="served-artist.php"> Served Artist </a>
                                             </li>

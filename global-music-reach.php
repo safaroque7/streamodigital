@@ -22,7 +22,7 @@
 <div class="container-fluid mb-md-5 mb-3">
     <div class="container">
         <div class="row">
-            <img src="images/distination/go-global.jpg" alt="global-music" class="img-fluid mb-md-4 mb-2">
+            <img src="images/distination/1-single-global-music-reach.jpg" alt="global-music" class="img-fluid mb-md-4 mb-2">
             <h1> GLOBAL MUSIC REACH </h1>
         </div>
         <div class="row">
@@ -133,8 +133,5 @@
         </div>
     </div>
 </div>
-
-
-
 
 <?php include_once('footer.php');?>
