@@ -21,11 +21,27 @@
                     <div class="container-fluid">
                         <a class="navbar-brand" href="index.php"><img src="images/main-logo.png" alt="main-logo"
                                 class="img-fluid main-logo"></a>
+
+
+                        <div class="d-flex mx-auto mt-2 d-md-none d-block">
+
+                            <button type="button" class="btn btn-success me-2 signin border border-white py-1">
+                                <a href="https://app.streamodigital.com/login"
+                                    class="text-white text-decoration-none d-block"> Sign In </a>
+                            </button>
+
+                        </div>
+
+
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02"
                             aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
+
+
+
+
                         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
@@ -114,17 +130,16 @@
                         </div>
                     </div>
 
-                    <div class="d-flex mx-auto mt-2">
+                    <div class="d-flex mx-auto mt-2 d-md-block d-none">
 
-                    <button type="button" class="btn btn-success me-2 signin border border-white"> 
-                        <a href="https://app.streamodigital.com/login" class="text-white text-decoration-none d-block"> Sign In </a> 
-                    </button>
+                            <button type="button" class="btn btn-success me-2 signin border border-white py-1">
+                                <a href="https://app.streamodigital.com/login"
+                                    class="text-white text-decoration-none d-block"> Sign In </a>
+                            </button>
 
-                    <button type="button" class="btn btn-primary signin border border-white"> 
-                        <a href="https://app.streamodigital.com/register" class="text-white text-decoration-none"> Sign Up </a> 
-                    </button>
+                        </div>
 
-                    </div>
+
 
 
                 </nav>
