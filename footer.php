@@ -86,7 +86,8 @@
 
             </div>
             <div class="col-md-7 col-12">
-                <div class="row">
+                
+                <div class="row d-flex justify-content-center">
                     <div class="col-md-4 col-12 mb-md-0 mb-4">
                         <h5 class="fw-bold mb-md-3 mb-2"> Music Distribution </h5>
                         <ul class="list-unstyled">
@@ -123,7 +124,7 @@
                         </ul>
                     </div>
 
-                    <div class="col-md-4 col-12 mb-md-0 mb-4">
+                    <!-- <div class="col-md-4 col-12 mb-md-0 mb-4">
                         <h5 class="fw-bold mb-md-3 mb-2"> Company </h5>
                         <ul class="list-unstyled mb-0">
                             <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
@@ -137,7 +138,7 @@
                             <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
                                     href="dsps-parters.php"> DSP's Parters </a> </li>
                         </ul>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>

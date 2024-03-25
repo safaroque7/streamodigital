@@ -202,6 +202,23 @@ div#navbarTogglerDemo02 {
     width: 42px;
 }
 
+.column-count-2 {
+    column-count: 2;
+    column-gap: 50px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.row>p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.text-streamo {
+    color: #1d6ea6;
+    margin-bottom: 0 !important;
+}
+
 
 /* ********************************* MOBILE VERSION START ********************************* */
 
@@ -286,24 +303,12 @@ div#navbarTogglerDemo02 {
     .column-count-2 {
         column-count: 1;
         text-align: justify;
+    }
+
+    .column-count-2,
+    .row>p{
         font-size: 12px;
     }
 }
 
 /* ********************************* MOBILE VERSION END ********************************* */
-
-.column-count-2 {
-    column-count: 2;
-    column-gap: 50px;
-    font-size: 18px;
-    text-align: justify;
-}
-
-.row>p {
-    font-size: 18px;
-    text-align: justify;
-}
-
-.text-streamo {
-    color: #1d6ea6;
-}

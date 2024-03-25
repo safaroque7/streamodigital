@@ -12,8 +12,8 @@
 
 <body>
 
-<!-- header section start -->
-<div class="contaniner-fluid bg-streamo">
+    <!-- header section start -->
+    <div class="contaniner-fluid bg-streamo">
         <div class="container">
             <div class="row align-items-center justify-content-between">
 
@@ -67,11 +67,13 @@
                                                     Copyright Royalties </a></li>
                                             <li><a class="dropdown-item" href="add-unlimited-artist.php"> Add Unlimited
                                                     Artist </a></li>
-                                            <li><a class="dropdown-item" href="add-unlimited-label.php"> Add Unlimited Label
+                                            <li><a class="dropdown-item" href="add-unlimited-label.php"> Add Unlimited
+                                                    Label
                                                 </a></li>
                                             <li><a class="dropdown-item" href="full-analytics-access.php"> Full
                                                     Analytics Access </a></li>
-                                            <li><a class="dropdown-item" href="monthly-payouts-in-all-gateways.php"> Monthly Payouts
+                                            <li><a class="dropdown-item" href="monthly-payouts-in-all-gateways.php">
+                                                    Monthly Payouts
                                                 </a></li>
                                             <li><a class="dropdown-item"
                                                     href="whitelisting-in-youtube-and-facebook.php"> Whitelisting For
@@ -105,8 +107,7 @@
                                             <li><a class="dropdown-item" href="served-artist.php"> Served Artist </a>
                                             </li>
                                             <li><a class="dropdown-item" href="media.php"> Media </a></li>
-                                            <li><a class="dropdown-item" href="bysst-music-exclusive-partner.php">
-                                                    Bysst Music Exclusive Partner </a></li>
+
                                         </ul>
                                     </li>
 
