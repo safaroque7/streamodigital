@@ -219,12 +219,17 @@ div#navbarTogglerDemo02 {
     margin-bottom: 0 !important;
 }
 
+.signin {
+    width: max-content;
+}
+
 
 /* ********************************* MOBILE VERSION START ********************************* */
 
 @media only screen and (max-width: 767px) {
 
     h1,
+    .display-3,
     .display-1 {
         font-size: 18px !important;
         line-height: normal;

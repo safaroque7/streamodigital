@@ -43,8 +43,6 @@
                                             Distribution </a>
                                     </li>
 
-
-
                                     <li class="nav-item dropdown text-uppercase">
                                         <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown1"
                                             role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -115,6 +113,20 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="d-flex mx-auto mt-2">
+
+                    <button type="button" class="btn btn-success me-2 signin border border-white"> 
+                        <a href="https://app.streamodigital.com/login" class="text-white text-decoration-none d-block"> Sign In </a> 
+                    </button>
+
+                    <button type="button" class="btn btn-primary signin border border-white"> 
+                        <a href="https://app.streamodigital.com/register" class="text-white text-decoration-none"> Sign Up </a> 
+                    </button>
+
+                    </div>
+
+
                 </nav>
             </div>
 
