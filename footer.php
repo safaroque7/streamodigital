@@ -86,7 +86,7 @@
 
             </div>
             <div class="col-md-7 col-12">
-                
+
                 <div class="row d-flex justify-content-center">
                     <div class="col-md-4 col-12 mb-md-0 mb-4">
                         <h5 class="fw-bold mb-md-3 mb-2"> Music Distribution </h5>
@@ -184,7 +184,9 @@
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="assets/js/jquery.flexslider.js"></script>
-<script src="assets/js/my-js.js"></script>
-</body>
 
-</html>
+    <script src="assets/js/my-js.js"></script>
+  
+        </body>
+
+        </html>
