@@ -1,18 +1,30 @@
-const counters = document.querySelectorAll(".num");
-      const speed = 59;
+window.addEventListener('scroll', () => {
+  const scorlled = window.scrollY;
 
-      counters.forEach((counter) => {
-        const updateCount = () => {
-          const target = parseInt(counter.getAttribute("data-target"));
-          const count = parseInt(counter.innerText);
-          const increment = Math.trunc(target / speed);
+  if (scorlled > 2118) {
 
-          if (count < target) {
-            counter.innerText = count + increment;
-            setTimeout(updateCount, 40);
-          } else {
-            counter.innerText = target;
-          }
-        };
-        updateCount();
-      });
+
+    const counters = document.querySelectorAll(".num");
+    const speed = 59;
+
+    counters.forEach((counter) => {
+      const updateCount = () => {
+        const target = parseInt(counter.getAttribute("data-target"));
+        const count = parseInt(counter.innerText);
+        const increment = Math.trunc(target / speed);
+
+        if (count < target) {
+          counter.innerText = count + increment;
+          setTimeout(updateCount, 150);
+        } else {
+          counter.innerText = target;
+        }
+      };
+      updateCount();
+    });
+
+
+  }
+
+  console.log(scorlled);
+});
