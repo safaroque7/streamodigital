@@ -6,8 +6,10 @@
 }
 
 
+
+.music-distribution li a,
 .bg-gmr a {
-    transition: all 0.5s ease-in-out;
+    transition: all 0.25s ease-in-out;
 }
 
 
@@ -165,8 +167,6 @@ div#navbarTogglerDemo02 {
     background: radial-gradient(#69ebc4, #10867d);
 }
 
-
-
 .streamodigital-image {
     width: 500px;
 }
@@ -193,8 +193,9 @@ div#navbarTogglerDemo02 {
 }
 
 
-.bg-testimonial-linear-gradient{
-    background-color: #0d6efd; /* For browsers that do not support gradients */
+.bg-testimonial-linear-gradient {
+    background-color: #0d6efd;
+    /* For browsers that do not support gradients */
     background-image: linear-gradient(#0d6efd, #ff0000);
 }
 
@@ -221,6 +222,19 @@ div#navbarTogglerDemo02 {
 
 .signin {
     width: max-content;
+}
+
+ul.navbar-nav li a {
+    padding-bottom: 0;
+}
+
+
+.bg-distribution-network {
+    background-image: linear-gradient(to top, #1d6ea6, rgba(0, 0, 0, .5));
+}
+
+.music-distribution li a:hover {
+    color: #1d6ea6 !important;
 }
 
 
@@ -311,8 +325,12 @@ div#navbarTogglerDemo02 {
     }
 
     .column-count-2,
-    .row>p{
+    .row>p {
         font-size: 12px;
+    }
+
+    h5 {
+        font-size: 15px;
     }
 }
 

@@ -3,9 +3,72 @@
     <div class="container">
         <div class="row mb-md-5 mb-0">
             <div class="col-md-3 col-12 mb-md-0 mb-4 mt-md-0 mt-5">
-                <a href="index.php"> <img src="images/main-logo.png" alt="main-logo" class="mb-4" style="width:150px">
+                <p class="mb-md-4 mb-2"> Streamo Digital provides the best music distribution and revenue for thousands
+                    of artist, record
+                    labels, and music bussiness's around the world. </p>
+                <a href="index.php"> <img src="images/main-logo.png" alt="main-logo" class="mb-4" style="width:250px">
                 </a>
 
+
+            </div>
+            <div class="col-md-7 col-12">
+                <div class="row d-flex justify-content-center">
+                    <div class="col-md-4 col-12 mb-md-0 mb-4">
+                        <h5 class="fw-bold mb-md-3 mb-2"> Music Distribution </h5>
+                        <ul class="list-unstyled music-distribution">
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="distribution-network.php"> Distribution Network </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="monetised-ugc-management.php"> Monetised UGC Management </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="360-Label-management.php"> 360 Label Management </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="accurate-data-insights.php"> Accurate Data & Insights </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="playlist-promotion-marketing.php"> Playlist Promotion & Marketing </a>
+                            </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="song-discovery.php"> Song Discovery </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="store-maximizer.php"> Store Maximizer </a> </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-md-4 col-12 mb-md-0 mb-4">
+                        <h5 class="fw-bold mb-md-3 mb-2"> Support </h5>
+                        <ul class="list-unstyled">
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="faq.php"> FAQ </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="pricing.php"> Pricing </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="marketing.php"> Marketing </a> </li>
+
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="takedown-and-counterclaims.php"> Takedown and Counterclaims </a> </li>
+                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
+                                    href="Contact.php"> Contact </a> </li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-2 col-12 mb-md-0 mb-4">
+                <h5 class="fw-bold mb-md-4 mb-3 text-uppercase"> Exclusive Partnership With </h5>
+                <ul class="list-unstyled">
+                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
+                                src="images/bysst.png" alt="byyst" class="img-fluid"> </a> </li>
+                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
+                                src="images/black.png" alt="byyst" class="img-fluid"> </a> </li>
+                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
+                                src="images/a2im.png" alt="byyst" class="img-fluid"> </a> </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row mb-md-4 mb-2">
+            <div class="col-md-3 col-12">
                 <div class="pb-2 mb-2">
                     <!-- Dhaka Office start -->
                     <h5 class="fw-bold"> Dhaka Office: </h5>
@@ -16,8 +79,9 @@
                         Mobile: +880 9697055022
                     </p>
                 </div>
+            </div>
 
-
+            <div class="col-md-3 col-12">
                 <div class="pb-2 mb-2">
                     <!-- USA Office start -->
                     <h5 class="fw-bold"> USA Office: </h5>
@@ -25,7 +89,9 @@
                         52 Brentwood Ln, Windsor, CT 06095 <br>
                     </p>
                 </div>
+            </div>
 
+            <div class="col-md-3 col-12">
                 <div class="pb-2 mb-2">
                     <!-- India Office start -->
                     <h5 class="fw-bold"> India Office: </h5>
@@ -36,7 +102,9 @@
 
                     </p>
                 </div>
+            </div>
 
+            <div class="col-md-3 col-12">
                 <div class="pb-2 mb-2">
                     <!-- India Office start -->
                     <h5 class="fw-bold"> Nepal Office: </h5>
@@ -45,7 +113,12 @@
                         Kathmandu, 44600, Nepal
                     </p>
                 </div>
+            </div>
+        </div>
 
+
+        <div class="row">
+            <div class="col-md-3 col-12">
                 <div class="social-link">
                     <ul class="ps-0 d-flex justify-content-between">
                         <li class="list-unstyled"> <a href="#" class="text-white"> <svg
@@ -83,75 +156,6 @@
                         </li>
                     </ul>
                 </div>
-
-            </div>
-            <div class="col-md-7 col-12">
-
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-4 col-12 mb-md-0 mb-4">
-                        <h5 class="fw-bold mb-md-3 mb-2"> Music Distribution </h5>
-                        <ul class="list-unstyled">
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="distribution-network.php"> Distribution Network </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="monetised-ugc-management.php"> Monetised UGC Management </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="360-Label-management.php"> 360 Label Management </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="accurate-data-insights.php"> Accurate Data & Insights </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="playlist-promotion-marketing.php"> Playlist Promotion & Marketing </a>
-                            </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="song-discovery.php"> Song Discovery </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="store-maximizer.php"> Store Maximizer </a> </li>
-                        </ul>
-                    </div>
-
-                    <div class="col-md-4 col-12 mb-md-0 mb-4">
-                        <h5 class="fw-bold mb-md-3 mb-2"> Support </h5>
-                        <ul class="list-unstyled">
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="faq.php"> FAQ </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="pricing.php"> Pricing </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="marketing.php"> Marketing </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="Contact.php"> Contact </a> </li>
-
-                        </ul>
-                    </div>
-
-                    <!-- <div class="col-md-4 col-12 mb-md-0 mb-4">
-                        <h5 class="fw-bold mb-md-3 mb-2"> Company </h5>
-                        <ul class="list-unstyled mb-0">
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="blog.php"> Blog </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="about.php"> About </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="our-artists-aabels.php"> Our Artists & Labels </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="takedown-and-counterclaims.php"> Takedown and Counterclaims </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="dsps-parters.php"> DSP's Parters </a> </li>
-                        </ul>
-                    </div> -->
-
-                </div>
-            </div>
-            <div class="col-md-2 col-12 mb-md-0 mb-4">
-                <h5 class="fw-bold mb-md-4 mb-3 text-uppercase"> Exclusive Partnership With </h5>
-                <ul class="list-unstyled">
-                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
-                                src="images/bysst.png" alt="byyst" class="img-fluid"> </a> </li>
-                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
-                                src="images/black.png" alt="byyst" class="img-fluid"> </a> </li>
-                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
-                                src="images/a2im.png" alt="byyst" class="img-fluid"> </a> </li>
-                </ul>
             </div>
         </div>
 
@@ -185,8 +189,8 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script src="assets/js/jquery.flexslider.js"></script>
 
-    <script src="assets/js/my-js.js"></script>
-  
-        </body>
+<script src="assets/js/my-js.js"></script>
 
-        </html>
+</body>
+
+</html>
