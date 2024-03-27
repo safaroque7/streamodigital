@@ -5,8 +5,7 @@
     margin: 0;
 }
 
-
-
+.start-free-trial a,
 .music-distribution li a,
 .bg-gmr a {
     transition: all 0.25s ease-in-out;
@@ -241,6 +240,33 @@ ul.navbar-nav li a {
     background-color: #3da8e2 !important;
 }
 
+.start-free-trial {
+    width: fit-content;
+}
+
+.start-free-trial a:hover {
+    background: black;
+    color: white !important;
+}
+.free-div {
+    width: fit-content;
+}
+.rounded-3 {
+    border-radius: 14px !important;
+}
+
+.year-text {
+    font-size: 14px;
+    color: #939597 !important;
+    font-weight: normal;
+    margin-left: 14px;
+    margin-top: 13px;
+}
+
+.h-515{
+    height: 515px;
+}
+
 
 /* ********************************* MOBILE VERSION START ********************************* */
 
@@ -335,6 +361,10 @@ ul.navbar-nav li a {
 
     h5 {
         font-size: 15px;
+    }
+
+    .h-515{
+        height: auto;
     }
 }
 
