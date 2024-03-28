@@ -35,7 +35,7 @@
                         <textarea name="" id="" cols="30" rows="10" class="w-100"></textarea>
                     </div>
 
-                    <button type="button" class="btn btn-dark border-white border-2"> Submit </button>
+                    <button type="button" class="btn btn-dark border-white border-2"> Submit Now</button>
                 </form>
             </div>
 
