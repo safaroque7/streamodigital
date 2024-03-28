@@ -45,7 +45,7 @@
                             <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
                                     href="takedown-and-counterclaims.php"> Takedown and Counterclaims </a> </li>
                             <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="Contact.php"> Contact </a> </li>
+                                    href="contact.php"> Contact </a> </li>
 
                         </ul>
                     </div>

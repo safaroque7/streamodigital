@@ -31,7 +31,7 @@
                         <input type="email" class="form-control" id="yourEmail">
                     </div>
                     <div class="form-group mb-md-3 mb-2">
-                        <label for="yourEmail" class="text-white form-label"> Your Comment </label>
+                        <label for="yourEmail" class="text-white form-label"> How can we help you? </label>
                         <textarea name="" id="" cols="30" rows="10" class="w-100"></textarea>
                     </div>
 
