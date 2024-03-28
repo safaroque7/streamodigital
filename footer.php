@@ -41,8 +41,6 @@
                                     href="faq.php"> FAQ </a> </li>
                             <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
                                     href="pricing.php"> Pricing </a> </li>
-                            <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
-                                    href="marketing.php"> Marketing </a> </li>
 
                             <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none"
                                     href="takedown-and-counterclaims.php"> Takedown and Counterclaims </a> </li>
@@ -61,8 +59,13 @@
                                 src="images/bysst.png" alt="byyst" class="img-fluid"> </a> </li>
                     <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
                                 src="images/black.png" alt="byyst" class="img-fluid"> </a> </li>
+
                     <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
                                 src="images/a2im.png" alt="byyst" class="img-fluid"> </a> </li>
+
+                    <li class="mb-md-2 pb-md-2 pb-1 mb-1"> <a class="text-white text-decoration-none" href="#"> <img
+                                src="images/music-spark-logo-white-024x272.png" alt="byyst" class="img-fluid"> </a>
+                    </li>
                 </ul>
             </div>
         </div>

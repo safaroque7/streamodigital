@@ -103,7 +103,7 @@
 
                         <div
                             class="d-flex flex-column py-2 px-md-4 px-2 bg-white rounded-3 pt-md-4 pt-2 h-515">
-                            <h3> Starter </h3>
+                            <h3> Record Label </h3>
 
                             <div class="fw-bold h1 mb-md-3 mb-2 position-relative free-div mx-auto"> $49.99
                                 <div
@@ -116,18 +116,13 @@
                                     class="px-3 py-2 text-decoration-none text-dark d-block">Start free trial</a>
                             </div>
 
-                            <p> Start free trial </p>
                             <p> 20 artists </p>
                             <p> Tailored service </p>
                             <p> Dedicated account management </p>
                             <p> Priority support </p>
                             <p> Pitching assistance </p>
                             <p> Early access to new features </p>
-
                         </div>
-
-
-
 
                         <div class="w-auto">
                             <a href="https://app.streamodigital.com/register"
