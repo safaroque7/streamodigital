@@ -12,12 +12,31 @@
         <div class="row">
 
             <div class="col-md-6 text-white">
-                <h5 class="fw-bold pb-md-3 pb-2"> Address: </h5>
-                <p> House 53/55, Flat 7C, Block- B, </p>
-                <p> Road-3Niketon Society, Gulshan, Dhaka </p>
-                <p> Email: info@streamodigital.com </p>
-                <p> Email: support@streamodigital </p>
-                <p> Phone: 01998506523 </p>
+                <h3 class="fw-bold pb-md-3 pb-2"> Address: </h3>
+
+                <div class="fw-bold">Dhaka Office:</div>
+                <p>
+                    Streamo Digital <br>
+                    House 53/55, Flat 5C, Road-3, Block-B <br>
+                    Niketon Housing Soceity, Gulshan, Dhaka <br>
+                    Mobile: +880 9697055022
+                </p>
+                
+                <div class="fw-bold"> USA Office: </div>
+                <p> 52 Brentwood Ln, Windsor, CT 06095 </p>
+
+                <div class="fw-bold">India Office:</div>
+                <p>
+                    New Link Rd, Phase D, Oshiwara, <br>
+                    Andheri West, Mumbai,br
+                    Maharashtra 400053, India
+                </p>
+
+                <div class="fw-bold"> Nepal Office: </div>
+                <p>
+                    Shantinagar, Baneshwar,
+                    Kathmandu, 44600, Nepal
+                </p>
 
             </div>
             <div class="col-md-6 col-12 mb-md-4 mb-2 border-white border px-3 py-4 shadow p-3 mb-5 rounded-3">
