@@ -5,6 +5,7 @@
     margin: 0;
 }
 
+.social-link ul li a,
 .start-free-trial a,
 .music-distribution li a,
 .bg-gmr a {
@@ -248,9 +249,11 @@ ul.navbar-nav li a {
     background: black;
     color: white !important;
 }
+
 .free-div {
     width: fit-content;
 }
+
 .rounded-3 {
     border-radius: 14px !important;
 }
@@ -263,8 +266,24 @@ ul.navbar-nav li a {
     margin-top: 13px;
 }
 
-.h-515{
+.h-515 {
     height: 515px;
+}
+
+.sign-up {
+    background-color: #0FAAEF;
+}
+
+.sign-up:hover {
+    background-color: #1383aa;
+}
+
+.sign-in:hover {
+    text-decoration: underline;
+}
+
+.social-link ul li a:hover {
+    color: red !important;
 }
 
 
@@ -363,8 +382,16 @@ ul.navbar-nav li a {
         font-size: 15px;
     }
 
-    .h-515{
+    .h-515 {
         height: auto;
+    }
+
+    .sign-in-font-size-mobile-version {
+        font-size: 13px;
+    }
+
+    .sign-up.btn-padding-mobile-version {
+        padding: 6px 10px !important;
     }
 }
 

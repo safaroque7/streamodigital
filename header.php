@@ -18,18 +18,21 @@
             <div class="row align-items-center justify-content-between">
 
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <div class="container-fluid">
+                    <div class="container-fluid px-0">
                         <a class="navbar-brand" href="index.php"><img src="images/main-logo.png" alt="main-logo"
                                 class="img-fluid main-logo"></a>
 
 
-                        <div class="d-flex mx-auto mt-2 d-md-none d-block">
-
-                            <button type="button" class="btn btn-success me-2 signin border border-white py-1">
-                                <a href="https://app.streamodigital.com/login"
-                                    class="text-white text-decoration-none d-block"> Sign In </a>
-                            </button>
-
+                        <div class="d-md-none d-block ">
+                            <div class="d-flex">
+                                <button type="button" class="btn"> <a href="https://app.streamodigital.com/login"
+                                        class="text-white text-decoration-none d-block text-nowrap h5 mb-0 sign-in-font-size-mobile-version"> Sign In </a>
+                                </button>
+                                <button type="button" class="btn sign-up btn-padding-mobile-version"> <a
+                                        href="https://app.streamodigital.com/register"
+                                        class="text-white text-decoration-none d-block text-nowrap"> Sign Up
+                                    </a> </button>
+                            </div>
                         </div>
 
 
@@ -130,17 +133,15 @@
                         </div>
                     </div>
 
-                    <div class="d-flex mx-auto mt-2 d-md-block d-none">
-
-                            <button type="button" class="btn btn-success me-2 signin border border-white py-1">
-                                <a href="https://app.streamodigital.com/login"
-                                    class="text-white text-decoration-none d-block"> Sign In </a>
+                    <div class="d-md-block d-none ">
+                        <div class="d-flex">
+                            <button type="button" class="btn sign-in"> <a href="https://app.streamodigital.com/login"
+                                    class="text-white text-decoration-none d-block text-nowrap h5 mb-0"> Sign In </a> </button>
+                            <button type="button" class="btn sign-up"> <a href="https://app.streamodigital.com/register"
+                                    class="text-white text-decoration-none d-block text-nowrap"> Sign Up </a>
                             </button>
-
                         </div>
-
-
-
+                    </div>
 
                 </nav>
             </div>

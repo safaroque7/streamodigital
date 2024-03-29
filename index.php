@@ -21,8 +21,10 @@
                             pricing, and start earning royalties. Don't wait any longer to share your talent with
                             the world – sign up with Streamo Digital today and start monetizing your music! </p>
 
-                        <input type="button" value="Sign Up Today"
-                            class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        <a href="https://app.streamodigital.com/" class="text-decoration-none"> <input type="button"
+                                value="Sign Up Today"
+                                class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        </a>
 
                     </div>
                 </div>
@@ -40,8 +42,10 @@
                             unauthorized use of your music cost you – join Streamo Digital now and safeguard your
                             artistic vision while maximizing your earnings! </p>
 
-                        <input type="button" value="Sign Up Today"
-                            class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white mt-md-5 mt-3">
+                        <a href="https://app.streamodigital.com/" class="text-decoration-none"> <input type="button"
+                                value="Sign Up Today"
+                                class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        </a>
 
                     </div>
                 </div>
@@ -61,8 +65,10 @@
                             need to thrive in the digital music landscape. Join Streamo Digital today and harness
                             the true potential of your music!"</p>
 
-                        <input type="button" value="Sign Up Today"
-                            class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white mt-md-5 mt-3">
+                        <a href="https://app.streamodigital.com/" class="text-decoration-none"> <input type="button"
+                                value="Sign Up Today"
+                                class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        </a>
 
                     </div>
                 </div>
@@ -81,8 +87,10 @@
                             join Streamo Digital today and take control of your YouTube presence like never before!"
                         </p>
 
-                        <input type="button" value="Sign Up Today"
-                            class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white mt-md-5 mt-3">
+                        <a href="https://app.streamodigital.com/" class="text-decoration-none"> <input type="button"
+                                value="Sign Up Today"
+                                class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        </a>
 
                     </div>
                 </div>
@@ -101,8 +109,10 @@
                             captivate audiences, and turn your music into a global sensation. Join Streamo Digital
                             today and let your music take center stage! </p>
 
-                        <input type="button" value="Sign Up Today"
-                            class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white mt-md-5 mt-3">
+                        <a href="https://app.streamodigital.com/" class="text-decoration-none"> <input type="button"
+                                value="Sign Up Today"
+                                class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        </a>
 
                     </div>
                 </div>
@@ -122,30 +132,13 @@
                             while Streamo Digital handles the distribution logistics. Don't limit your success –
                             join Streamo Digital today and amplify your earning potential </p>
 
-                        <input type="button" value="Sign Up Today"
-                            class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white mt-md-5 mt-3">
+                        <a href="https://app.streamodigital.com/" class="text-decoration-none"> <input type="button"
+                                value="Sign Up Today"
+                                class="text-uppercase d-flex m-auto py-2 px-5 fs-4 rounded-pill border-0 fw-bold signup-today text-white">
+                        </a>
 
                     </div>
                 </div>
-
-
-
-
-                <!-- 
-
-                      <div class="carousel-item">
-                        <img src="images/slider/slider-2.jpg" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="images/slider/slider-3.jpg" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="images/slider/slider-4.jpg" class="d-block w-100" alt="...">
-                      </div>
-                      <div class="carousel-item">
-                        <img src="images/slider/slider-5.jpg" class="d-block w-100" alt="...">
-                      </div> -->
-
 
 
             </div>
@@ -273,13 +266,15 @@
 
 <!-- 3rd part get-your-music-everywhere -->
 <div class="container-fluid px-0">
-    
-        <div class="px-0 position-relative">
-            <div class="text-center py-md-3 pt-0 display-3 fw-bold text-uppercase position-absolute top-0 start-50 translate-middle-x text-streamo container"> GET YOUR MUSIC EVERYWHERE
-            </div>
-            <img src="images/get-your-music-everywhere/get-your-music-everywhere.JPG" alt="get-your-music-everywhere"
-                class="img-fluid w-100">
-    
+
+    <div class="px-0 position-relative">
+        <div
+            class="text-center py-md-3 pt-0 display-3 fw-bold text-uppercase position-absolute top-0 start-50 translate-middle-x text-streamo container">
+            GET YOUR MUSIC EVERYWHERE
+        </div>
+        <img src="images/get-your-music-everywhere/get-your-music-everywhere.JPG" alt="get-your-music-everywhere"
+            class="img-fluid w-100">
+
     </div>
 </div>
 <!-- get-your-music-everywhere-end -->
