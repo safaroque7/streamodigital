@@ -265,17 +265,16 @@
 <!-- GLOBAL MUSIC REACH start end -->
 
 <!-- 3rd part get-your-music-everywhere -->
-<div class="container-fluid px-0">
-
-    <div class="px-0 position-relative">
-        <div
-            class="text-center py-md-3 pt-0 display-3 fw-bold text-uppercase position-absolute top-0 start-50 translate-middle-x text-streamo container">
-            GET YOUR MUSIC EVERYWHERE
-        </div>
-        <img src="images/get-your-music-everywhere/get-your-music-everywhere.JPG" alt="get-your-music-everywhere"
-            class="img-fluid w-100">
-
+<div class="container-fluid px-0 ultimate-destination">
+    <div
+        class="container text-center py-md-3 pt-0 display-3 fw-bold text-uppercase text-white ">
+        GET YOUR MUSIC EVERYWHERE
     </div>
+
+    <img src="images/get-your-music-everywhere/get-your-music-everywhere.JPG" alt="get-your-music-everywhere"
+        class="img-fluid w-100">
+
+
 </div>
 <!-- get-your-music-everywhere-end -->
 

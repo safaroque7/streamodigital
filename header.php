@@ -46,9 +46,7 @@
 
 
                         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-                            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-
-                            </ul>
+                            
                             <div class="d-flex">
                                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                     <li class="nav-item text-uppercase">
@@ -137,7 +135,7 @@
                         <div class="d-flex">
                             <button type="button" class="btn sign-in"> <a href="https://app.streamodigital.com/login"
                                     class="text-white text-decoration-none d-block text-nowrap h5 mb-0"> Sign In </a> </button>
-                            <button type="button" class="btn sign-up"> <a href="https://app.streamodigital.com/register"
+                            <button type="button" class="btn sign-up border border-white"> <a href="https://app.streamodigital.com/register"
                                     class="text-white text-decoration-none d-block text-nowrap"> Sign Up </a>
                             </button>
                         </div>
